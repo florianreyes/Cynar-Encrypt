@@ -1,0 +1,3 @@
+/home/florian/Desktop/projects/cpp_projects/Cynar-Encrypt/build/CMakeFiles/encryptor.dir
+/home/florian/Desktop/projects/cpp_projects/Cynar-Encrypt/build/CMakeFiles/edit_cache.dir
+/home/florian/Desktop/projects/cpp_projects/Cynar-Encrypt/build/CMakeFiles/rebuild_cache.dir
